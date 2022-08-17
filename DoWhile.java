@@ -1,4 +1,4 @@
-public class DoWhile{
+public class g{
   public static void main(String args[]){
 
   int i = 1000;
